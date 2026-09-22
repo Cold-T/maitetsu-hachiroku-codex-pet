@@ -19,6 +19,7 @@
 - waiting
 - running
 - review
+- 時計回りの16方向の視線アニメーション
 
 ## インストール
 
@@ -42,7 +43,7 @@ Codex を再起動または更新し、ペット選択画面で `八六` を選�
 ## ファイル
 
 - `hachiroku/pet.json`: Codex ペットのマニフェスト。
-- `hachiroku/spritesheet.webp`: 8 x 9 の Codex ペット用アニメーションアトラス。
+- `hachiroku/spritesheet.webp`: 16方向の視線を含む Codex v2 8 x 11 アニメーションアトラス。
 
 ## 免責事項
 

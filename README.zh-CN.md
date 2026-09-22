@@ -19,6 +19,7 @@
 - waiting
 - running
 - review
+- 16 个顺时针环绕的观察方向
 
 ## 安装
 
@@ -42,7 +43,7 @@ cp -R hachiroku ~/.codex/pets/
 ## 文件
 
 - `hachiroku/pet.json`：Codex 宠物清单文件。
-- `hachiroku/spritesheet.webp`：8 x 9 的 Codex 宠物动画图集。
+- `hachiroku/spritesheet.webp`：Codex v2 8 x 11 动画图集，包含 16 个观察方向。
 
 ## 声明
 

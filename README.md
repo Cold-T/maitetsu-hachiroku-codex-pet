@@ -19,6 +19,7 @@ This pet includes a Codex-compatible animated spritesheet with the following sta
 - waiting
 - running
 - review
+- 16 clockwise look directions
 
 ## Install
 
@@ -42,7 +43,7 @@ Restart or refresh Codex, then select the Hachiroku pet from the pet picker.
 ## Files
 
 - `hachiroku/pet.json`: Codex pet manifest.
-- `hachiroku/spritesheet.webp`: 8 x 9 Codex pet animation atlas.
+- `hachiroku/spritesheet.webp`: Codex v2 8 x 11 animation atlas with 16 look directions.
 
 ## Disclaimer
 
